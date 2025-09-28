@@ -91,13 +91,11 @@
         toggle_layer_3 {
             bindings = <&tog 3>;
             key-positions = <11 10>;
-            layers = <0>;
         };
 
         toggle_default_layer {
             bindings = <&tog 0>;
             key-positions = <49 48>;
-            layers = <3>;
         };
     };
 
